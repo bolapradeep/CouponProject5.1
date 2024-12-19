@@ -14,8 +14,4 @@ Following are my observations:
 1. Proportion of Coffee House coupons accepted: 50%
 
 ### Author
-Pradeep
-
-
-
-
+Pradeep Bola
